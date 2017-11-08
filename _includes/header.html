@@ -4,10 +4,6 @@
 
     <div class="container">
 
-      <h1 class="title">
-        <a href="{{ site.baseurl }}/">{{ site.title }}</a> <small>v2</small>
-      </h1>
-
       <nav class="navbar">
         <a href="#" class="menu-icon">
           <span></span>
@@ -18,11 +14,14 @@
         <ul class="nav">
           {% for page in site.pages %}
             {% if page.title and page.title != 'Home' %}
-            <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+            <li><a href="{{ page.url | prepend: site.baseurl }}">MNA</a></li>
             {% endif %}
           {% endfor %}
-          <li><a href="{{ site.author.url }}/about" target="_blank">the autor</a></li>
-          <li><a href="{{ site.github }}" target="_blank">Github</a></li>
+          <li><a href="{{ site.author.url }}/about" target="_blank">News</a></li>
+          <li><a href="{{ site.author.url }}/about" target="_blank">Board</a></li>
+          <li><a href="{{ site.author.url }}/about" target="_blank">Records</a></li>
+          <li><a href="{{ site.author.url }}/about" target="_blank">Reources</a></li>
+          <li><a href="{{ site.author.url }}/about" target="_blank">Email</a></li>
         </ul>
       </nav>
     </div>
