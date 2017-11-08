@@ -14,12 +14,10 @@
         <ul class="nav">
           {% for page in site.pages %}
             {% if page.title and page.title != 'Home' %}
-            <li><a href="{{ page.url | prepend: site.baseurl }}">MNA</a></li>
+            <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
             {% endif %}
           {% endfor %}
-          <li><a href="{{ site.author.url }}/board" target="_blank">Board</a></li>
-          <li><a href="{{ site.author.url }}/about" target="_blank">Records</a></li>
-          <li><a href="{{ site.author.url }}/about" target="_blank">Email</a></li>
+          <li><a href="{{ site.author.url }}/board" target="_blank">Contact</a></li>
         </ul>
       </nav>
     </div>
