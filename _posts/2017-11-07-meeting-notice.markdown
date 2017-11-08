@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Join us on November 13th, for a meeting of the Montavilla Neighborhood Association Board"
-date:   2017-07-11 03:00:08
-categories: site update
+date:   2017-11-06 15:00:08
+categories: site update notice meeting
 comments: true
 ---
 On November 13, the Montavilla Neighborhood Association will be holding it's monthly meetings. The meeting will start at 6:30pm and continue 'till 9 pm at the Montavilla United Methodist church.

@@ -17,10 +17,8 @@
             <li><a href="{{ page.url | prepend: site.baseurl }}">MNA</a></li>
             {% endif %}
           {% endfor %}
-          <li><a href="{{ site.author.url }}/about" target="_blank">News</a></li>
-          <li><a href="{{ site.author.url }}/about" target="_blank">Board</a></li>
+          <li><a href="{{ site.author.url }}/board" target="_blank">Board</a></li>
           <li><a href="{{ site.author.url }}/about" target="_blank">Records</a></li>
-          <li><a href="{{ site.author.url }}/about" target="_blank">Reources</a></li>
           <li><a href="{{ site.author.url }}/about" target="_blank">Email</a></li>
         </ul>
       </nav>
@@ -28,7 +26,7 @@
 
     {% if page.slug == 'home' %}
       <h2 class="txt-center">
-        Welcome to <strong>{{ site.title }}</strong>!
+        <strong>{{ site.title }}</strong>
       </h2>
     {% endif %}
 
