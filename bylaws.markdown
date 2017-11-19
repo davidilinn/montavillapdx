@@ -4,8 +4,6 @@ title: Bylaws
 permalink: /bylaws/
 slug: bylaws
 ---
-Montavilla Community Association 
-=============================
 
 #Bylaws 
 
