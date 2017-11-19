@@ -4,23 +4,15 @@
 
     <div class="container">
 
-      <nav class="navbar">
-        <a href="#" class="menu-icon">
-          <span></span>
-          <span></span>
-          <span></span>
-        </a>
-
-        <ul class="nav">
-	    <li><a href="{{ site.author.url }}/">Home</a></li>
+        <div class="topnav" id="myTopnav">
+            <li><a href="{{ site.author.url }}/">Home</a></li>
           {% for page in site.pages %}
             {% if page.title and page.title != 'Home' %}
-            <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+              <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
             {% endif %}
           {% endfor %}
-          <li><a href="mailto:mna-email@montavillapdx.org">Contact</a></li>
-        </ul>
-      </nav>
+            <li><a href="mailto:mna-email@montavillapdx.org">Contact</a></li>
+        </div>
     </div>
 
     {% if page.slug == 'home' %}
