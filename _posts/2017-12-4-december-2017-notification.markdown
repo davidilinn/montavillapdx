@@ -9,7 +9,7 @@ comments: true
 
 Please Join the Montavilla Neighborhood Association for our monthly General Membership and Board Meetings.
 
-<h3>Montavilla Methodist Church <br />232 SE 80th Avenue Portland, OR 97215 <br />December 11th, 2017 <br/ >6:30 pm - 8:45 pm*</h3>
+<h3>Montavilla Methodist Church <br />232 SE 80th Avenue Portland, OR 97215 <br />December 11th, 2017<br /> 6:30 pm - 8:45 pm*</h3>
 
 ## Schedule:
 
