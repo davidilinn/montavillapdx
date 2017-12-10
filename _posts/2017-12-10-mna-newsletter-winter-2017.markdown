@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Winter 2017 Newsletter"
-date:   2017-11-06 15:00:08
+date:   2017-12-10 11:00:08
 categories: site update newsletter
 comments: true
 ---
