@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Join us on December 11th, for a meeting of the Montavilla Neighborhood Association Board"
+title:  "Join us on January 8th, for a meeting of the Montavilla Neighborhood Association Board"
 date:   2018-01-01 15:51:08
 categories: site update notice meeting
 comments: true
