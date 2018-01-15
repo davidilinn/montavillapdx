@@ -1,19 +1,26 @@
 ---
 layout: post
-title:  "January 21st  meeting   of the   Montavilla   Neighborhood   Association   Board" 
-date:   2018-01-14   15:00:08
-categories:   site   update   notice   meeting
-comments:   true
+title: "January 21st  meeting   of the   Montavilla   Neighborhood   Association   Board" 
+date: 2018-01-14 15:00:08
+categories: site update notice meeting
+comments: true
 ---
 
-Montavilla Neighborhood Association 
-Board Meeting 
+# Montavilla Neighborhood Association 
+## Board Meeting 
+
 January 21, 2018
+
 12:30pm-1:30pm
 
 12:30pm Opening & Ground rules
+
 12:35pm - 12:50pm - Comments from grievant(s)
+
 12:50pm - 1:10pm - Other invited comments
+
 1:10pm - 1:20pm - Appoint grievance report writer(s)
+
 1:20pm - 1:30pm - Discussion - Donation request from Franklin PTA - potential motion
+
 1:30pm - Adjourn 
