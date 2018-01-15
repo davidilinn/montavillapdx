@@ -1,9 +1,11 @@
 ---
-layout:   post
-title:      "January 21st  meeting   of the   Montavilla   Neighborhood   Association   Board" date:         2018-01-14   15:00:08
+layout: post
+title:  "January 21st  meeting   of the   Montavilla   Neighborhood   Association   Board" 
+date:   2018-01-14   15:00:08
 categories:   site   update   notice   meeting
 comments:   true
 ---
+
 Montavilla Neighborhood Association 
 Board Meeting 
 January 21, 2018
