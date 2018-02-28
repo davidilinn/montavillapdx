@@ -1,9 +1,9 @@
 ---
-layout:   post
-title:      "Emergency Board meeting February 28th" 
-date:         2018-02-27   10:00:08
-categories:   site   update   notice   meeting
-comments:   true
+layout: post
+title: "Emergency Board meeting February 28th" 
+date: 2018-02-27 10:00:08
+categories: site update notice meeting
+comments: true
 ---
 Montavilla Neighborhood Association 
 Emergency Board Meeting
